@@ -1,5 +1,5 @@
-# FirstRepository_Cambio
-Mi primer repositorio solo una prueba _ Cambio
+# FirstRepository
+Este es mi primer repositorio
 
-Autor: ELizabeth Gaspar M.
+Autor: Elizabeth Gaspar M.
 Fecha: 06/02/2022
